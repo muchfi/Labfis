@@ -1,2 +1,2 @@
 # Labfis
-compilation of silicon anoda programming code
+compilation of carbon characteristic analysis as supercapacitor material code
